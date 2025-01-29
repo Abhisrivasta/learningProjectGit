@@ -1,0 +1,30 @@
+#for-detail-page{
+    height: 40px;
+    width: 40px;
+    font-size: xx-large;
+    border-radius: 4px;
+}
+body{
+    position: relative;
+}
+.nav{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
+.book-detail{
+   border: 1px solid black;
+   width: 20%;
+   padding: 25px;
+   position: absolute;
+   top: 100%;
+  
+}
+
+button{
+    margin: 10px;
+}
+
+
+
